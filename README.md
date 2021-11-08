@@ -59,7 +59,7 @@ A function that takes another function as a parameter.
     val fLeft = oneToFile.foldLeft(0)((x, y) => x + y)
     println(fLeft) // 15
 
-    // :\ (fold right)
+    // foldRight
     val fRight = oneToFile.foldRight(0)((x, y) => x + y)
     println(fRight) // 15
 

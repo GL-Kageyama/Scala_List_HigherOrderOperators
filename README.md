@@ -1,6 +1,7 @@
 # Scala List : Higher-Order Operators
 
 ## Higher-Order Operators
+A function that takes another function as a parameter.  
 
 ## Sample
 ```Scala
